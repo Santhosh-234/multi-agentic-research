@@ -1,0 +1,10 @@
+.env
+
+vector_vault/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
+Thumbs.db
